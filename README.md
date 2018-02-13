@@ -169,7 +169,7 @@ OK
 TIP: Use 'cf restage pas-springboot-pcf' to ensure your env variable changes take effect
 ```
 
-- Verify bound sercice injects bucket and password details into VCAP_SERVICES
+- Verify bound service injects bucket and password details into VCAP_SERVICES
 
 ```
 pasapicella@pas-macbook:~/apps/pcf-dev$ cf env pas-springboot-pcf
